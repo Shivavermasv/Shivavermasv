@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi , I'm Shiva Verma</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
