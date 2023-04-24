@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shiva Verma</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://24.media.tumblr.com/2157bb201b8f13db970a39af62b92f88/tumblr_n52b2hmsH11shpedgo1_500.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivavermasv&label=Profile%20views&color=0e75b6&style=flat" alt="shivavermasv" /> </p>
 
