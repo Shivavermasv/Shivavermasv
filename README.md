@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivavermasv&label=Profile%20views&color=0e75b6&style=flat" alt="shivavermasv" /> </p>
 
-- 🔭 I’m currently working on **Data Structure And Algorithm**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently working as a Software Engineer @ **LTIMindtree**
 
-- 👯 I’m looking to collaborate on **Android projects**
+- 👯 I’m looking to collaborate on **Backend or Full-Satck Projects**
 
 - 🤝 I’m looking for help with **Java Development**
 
